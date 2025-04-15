@@ -10,6 +10,18 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+/Assets/StreamingAssets/
+/Assets/Animations/
+/Assets/Audio/
+/Assets/Models/
+/Assets/Scenes/
+/Assets/Locations/
+/Assets/Materials/
+/Assets/Models/
+/Assets/_TerrainAutoUpgrade/
+/Library/
+/Resources/
+/Temp/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -52,6 +64,9 @@ ExportedObj/
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
+*.fbx
+*.png
+*.psd
 
 # Unity3D generated file on crash reports
 sysinfo.txt
